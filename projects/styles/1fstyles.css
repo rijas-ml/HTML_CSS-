@@ -1,0 +1,50 @@
+.baz {
+  transition: color 0.15s;
+}
+.baz:hover {
+  color: rgba(246, 145, 30, 0.833);
+}
+.nike-bshoes {
+  font-size: 20px;
+  color: black;
+  font-weight: bold;
+}
+.stock {
+  color: rgb(0, 118, 0);
+  font-weight: bold;
+}
+.cart {
+  background-color: rgb(255, 216, 20);
+  height: 36px;
+  width: 105px;
+  border: none;
+  border-radius: 18px;
+  cursor: pointer;
+  margin-right: 8px;
+  transition: background-color 0.15s,
+    opacity 0.15s;
+}
+.cart:hover {
+  background-color: rgb(243, 228, 128);
+  opacity: 1.1;
+}
+.cart:active {
+  opacity:0.5;
+}
+.buynow:hover {
+  background-color: rgb(246, 158, 6);
+  opacity: 1.3;
+}
+.buynow:active {
+  opacity:0.5;
+}
+.buynow {
+  background-color: rgb(236, 185, 103);
+  height: 36px;
+  width: 105px;
+  border: none;
+  border-radius: 18px;
+  cursor: pointer;
+  transition: background-color 0.15s,
+    opacity 0.15s;
+}

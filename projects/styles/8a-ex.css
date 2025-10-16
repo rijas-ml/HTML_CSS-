@@ -1,0 +1,11 @@
+.name,
+      .email {
+        font-family: Arial;
+        color: gray;
+        display: block;
+        border-radius: 3px;
+        width: 150px;
+        margin-top: 8px;
+        height: 20px;
+        border-style: solid;
+      }

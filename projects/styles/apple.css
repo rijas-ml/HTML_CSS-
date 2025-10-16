@@ -1,0 +1,21 @@
+p {
+  font-family: Arial;
+  text-align: center;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+.mainh {
+  color: black;
+  font-size: 23px;
+  font-weight: bold;
+}
+.apple {
+  color: black;
+  font-size: 13px;
+  margin-top: 15px;
+}
+.lm {
+  color: blue;
+  font-size: 13px;
+  margin-top: 15px;
+}
